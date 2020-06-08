@@ -3,6 +3,7 @@
 -javascript
  * ES6
  *framework javascript
+- Belajar module bundler seperti webpack
 -struktur data dasar
 -php framework
 -interview
