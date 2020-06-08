@@ -1,0 +1,5 @@
+Halo pak, salam kenal saya renaldy, saya mahasiswa it di jakarta.
+
+Resolusi saya di tahun 2020 : 
+- Membuat aplikasi app menggunakan react native
+- Membuat aplikasi web menggunakan react js
