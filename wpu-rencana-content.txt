@@ -2,8 +2,12 @@
 
 -javascript
  * ES6
+ * chart.js
+ * node.js
+ * react.js
  *framework javascript
 -struktur data dasar
 -php framework
 -interview
+- paganation with ajax
 -vlogs
