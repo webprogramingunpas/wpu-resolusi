@@ -1,0 +1,7 @@
+Hallo Pak Saya Haris Nurdiansyah dari banten
+  - belajar laravel
+  - saya ingin membuat aplikasi market place dengan laravel 
+  - belajar Codeigniter 4
+  - membuat aplikasi e-commerse dengan CI 4
+  
+  -cita-cita saya saya ingin bekerja di prusaan IT seperti start-up
