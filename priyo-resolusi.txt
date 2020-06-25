@@ -1,0 +1,5 @@
+halo salam kenal nama saya priyo dari kediri
+
+ini reslusi saya : 
+- Membuat website fasilitas belajar bahasa inggris dengan isi vidio tutrial didalamnya dengan menggunakan framework javascript.
+- saya ingin membuat sistemasi database yang bisa dikontrol di sebuah website.
