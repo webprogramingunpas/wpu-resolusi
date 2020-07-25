@@ -5,5 +5,8 @@
  *framework javascript
 -struktur data dasar
 -php framework
+ *CodeIgniter
+ *Laravel
 -interview
 -vlogs
+-Python
