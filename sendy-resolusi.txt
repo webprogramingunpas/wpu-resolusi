@@ -1,0 +1,3 @@
+Hallo Pak Nama saya Sendy Joan
+ - Membuat website dengan Laravel
+ - Bekerja di startup
