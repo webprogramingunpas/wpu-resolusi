@@ -2,8 +2,15 @@
 
 -javascript
  * ES6
- *framework javascript
+ * framework javascript
+ * Angular
+ * React
 -struktur data dasar
 -php framework
+ * Codeigniter
+ * Laravel
 -interview
--vlogs
+-css fremwork
+ * Bootstrap5
+ * Materialize
+ -python
