@@ -1,9 +1,16 @@
  rencana konten wpu
 
--javascript
+- Javascript
  * ES6
- *framework javascript
--struktur data dasar
--php framework
--interview
--vlogs
+ * Framework javascript
+ * Angular
+ * React
+- Struktur Data Dasar
+- PHP Framework
+ * Codeigniter
+ * Laravel
+- Interview
+- CSS Framework
+ * Bootstrap5
+ * Materialize
+- Python
