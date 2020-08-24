@@ -2,7 +2,15 @@
 
 -javascript
  * ES6
- *framework javascript
+ * npm
+ * webpack
+ * component
+ * babel
+ *Framework JavaScript
+ * vue
+ * react
+ * nodejs
+
 -struktur data dasar
 -php framework
 -interview
