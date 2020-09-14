@@ -1,0 +1,7 @@
+Halo pak.Salam kenal nama saya kherul saya seorang Mahasiswa dari salah satu perguruan tinggi suasta di Makassar
+
+Resolusi saya
+-Membuat landing page mnggunakan framwrik javascript
+-Bekerja di starup
+-Membuat aplikasi mobil app dengan flutter
+-Menjadi frond ant developer dan flutter developer
