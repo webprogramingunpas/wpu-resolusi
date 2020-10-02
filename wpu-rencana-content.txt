@@ -1,9 +1,17 @@
- rencana konten wpu
-
--javascript
- * ES6
- *framework javascript
--struktur data dasar
--php framework
--interview
--vlogs
+# Rencana Belajar Bahasa Pemrogrman
+- JavaScript
+  * Bisa membuat program dengan JavaScript
+   ^ angular
+   ^ react
+- Python
+   ^ numpy
+- C++
+- Java
+  ^ java oop
+- Ruby
+- PHP
+ ^ PHP OOP
+ ^ Laravel
+ ^ Codeigneter
+ ^ Laravel
+- Android
