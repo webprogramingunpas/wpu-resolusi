@@ -3,7 +3,9 @@
 -javascript
  * ES6
  *framework javascript
+ ^ vue.js
 -struktur data dasar
 -php framework
 -interview
 -vlogs
+- tailwind.css
