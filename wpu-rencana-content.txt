@@ -3,6 +3,9 @@
 -javascript
  * ES6
  *framework javascript
+ - Vue JS
+ - React Native
+ - IONIC
 -struktur data dasar
 -php framework
 -interview
