@@ -1,0 +1,7 @@
+Halo pak salam kenal nama saya Muhamar dari Makassar, 
+saat ini saya sedang menyusun tugas akhir (skripsi) di kampus STMIK DIPANEGARA MAKASSAR
+aplikasi yang akan saya buat yaitu aplikasi mengenai pelelangan online berbasis website.
+
+Resolusi saya :
+- Membuat website menggunakan framework Codeigniter 4
+- Bekerja di start-up
