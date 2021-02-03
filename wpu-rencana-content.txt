@@ -1,9 +1,11 @@
  rencana konten wpu
 
 -javascript
- * ES6
+ * ES
  *framework javascript
 -struktur data dasar
 -php framework
 -interview
 -vlogs
+-framwork css
+ *tailwind
