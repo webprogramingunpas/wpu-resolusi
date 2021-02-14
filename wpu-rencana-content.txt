@@ -7,3 +7,4 @@
 -php framework
 -interview
 -vlogs
+- Membuat vidio yang menjelaskan skill atau ilmu apa saja yang minimal harus bisa di kuasai saat ini di dunia kerja untuk web developer.
