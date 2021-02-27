@@ -3,3 +3,4 @@ WPU RESOLUSI
 -membuat platform untuk pengelolaan video
 -membuat forum diskusi
 -live streaming
+-Ngoding Minimal Satu jam perhari
