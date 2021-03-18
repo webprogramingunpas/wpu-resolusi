@@ -7,4 +7,4 @@
 -php framework
 -interview
 -vlogs
-- membuat projeck bersama
+- membuat projeck bersama.
