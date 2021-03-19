@@ -1,0 +1,23 @@
+Hai pak salam kenal saya yudis, dari bengkulu.
+Resolusi saya :
+>> Bahasa
+   - Bahasa inggris
+>> Framework (FE)
+   - Vue
+   - React
+   - Angular
+>> Framework (BE)
+   - Laravel
+   - Ci
+   - Simfhony
+>> Framework (CSS)
+   - Bootstrap
+>> Bekerja di
+   - Google
+   - Microsoft
+   - Apple
+   - Tencent
+>> Cita-cita
+   - Web dev
+   - Mobile dev
+   - Game dev
