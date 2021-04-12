@@ -1,9 +1,13 @@
- rencana konten wpu
+RENCANA KONTEN WPU
 
--javascript
- * ES6
- *framework javascript
--struktur data dasar
--php framework
--interview
--vlogs
+- javascript
+  * ES6
+  * Framework Javascript
+    ^ Vue
+    ^ React
+    ^ Angular
+- Struktur data dasar
+- PHP Framework
+- Interview
+- Vlogs
+- Python
