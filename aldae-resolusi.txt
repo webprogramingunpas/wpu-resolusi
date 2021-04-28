@@ -1,0 +1,5 @@
+Halo Pak, salam kenal, nama saya alex darmawan dari Solo,
+saya masih bekerja di perusahaan startapp yang berfokus pada aplikasi desktop dengan database firebird
+
+Resolusi Saya
+- Membuat Web dengan Codeigniter ataupun Laravel dengan database firebird
