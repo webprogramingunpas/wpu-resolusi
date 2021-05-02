@@ -1,0 +1,9 @@
+Hallo pak, salam kenal nama saya Sihab  dari Bandung.
+Saya masih kuliah di prodi Akuntansi dan ingin bisa ngoding seperti programer lain pak.
+Mohon Bimbingannya untuk belajar ngoding di wpu pak.
+
+Resolusi Saya:
+-Membuat Website sendiri dengan php native
+-Membuat Program dari javascript
+-Membuat Website Menggunakan Framework CI dan Laravel
+-Menjadi Web Developer Accounting
