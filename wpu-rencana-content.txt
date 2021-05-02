@@ -3,7 +3,11 @@
 -javascript
  * ES6
  *framework javascript
+-logika & algoritma koding
 -struktur data dasar
+-database
+-go-lang
+-node js
 -php framework
 -interview
 -vlogs
