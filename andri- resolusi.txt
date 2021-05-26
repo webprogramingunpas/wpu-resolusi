@@ -1,0 +1,4 @@
+Halo pak saya Andri dari Jogja
+Resolusi Saya : 
+- Membuat website dengan frame work Vue
+- Cita cita menjadi frondend developer 
