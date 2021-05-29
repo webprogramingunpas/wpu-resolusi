@@ -1,9 +1,11 @@
  rencana konten wpu
 
--javascript
+- javascript
  * ES6
  *framework javascript
--struktur data dasar
--php framework
--interview
--vlogs
+- struktur data dasar
+- php framework
+- interview
+- vlogs
+- mini-project
+ * Progressive Web App
