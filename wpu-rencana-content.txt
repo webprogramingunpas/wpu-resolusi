@@ -4,6 +4,7 @@
  * ES6
  *framework javascript
  *json
+ *vue
 -struktur data dasar
 -php framework
 -interview
