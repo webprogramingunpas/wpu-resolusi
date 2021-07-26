@@ -1,0 +1,7 @@
+Hai teman" sy baru new be nih 'baru belajar git hub
+
+resolusi saya:
+  - Bisa membuat web database sederhana bersama tim dangan bahasa pemrograman PHP
+  - Mampu menguasai bahasa pemrograman PHP  
+ 
+ 
