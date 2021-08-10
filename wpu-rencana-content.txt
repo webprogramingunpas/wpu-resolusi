@@ -3,7 +3,10 @@
 -javascript
  * ES6
  *framework javascript
+  ^ React
 -struktur data dasar
 -php framework
 -interview
+ * interview programer tamatan SMA/SMK
 -vlogs
+
