@@ -1,0 +1,15 @@
+Assalamualaikum, pa Sandika perkenalkan saya MrTSCode dari pojok Kota Bandung. Saat ini saya bekerja di bagan keuangan dan tidak ada kaitannya dengan web dev, namun saya suka sekali mempelajari 
+tentang web dev.
+
+Resolusi saya :
+1. Belajar Git dan Github hingga bisa berkolaborasi dengan banyak expert.
+2. Belajar tentang web socket untuk mendapatkan data secara real time.
+3. Belajar membuat web dengan payment getway.
+4. Belajar menerapkan multi bahasa pada web dan content web pada artikel.
+5. Belajar menggunakan subdomain untuk admin route pada MVC. Sehingga untuk admin situs dipisah oleh penambahan nama subdomain namun tetap masih dalam satu project root (bisa tidak ya gak tau juga)
+
+Cita-cita saya :
+1. Ingin mati muda karena udah bosen hidup kelamaan khawatir numpuk dosa soalnya.
+2. Ingin bisa bermanfaat buat banyak orang terutama untuk adik-adik yang kurang beruntung karena ditinggalkan oleh orang tuanya setidaknya masa depan mereka setidaknya tercover untuk masalah pendidikan.
+3. Membuat start-up yang belum ada pemain besarnya saat ini.
+4. Punya gedung milik sendiri, supaya tidak diremehkan oleh orang lain.
