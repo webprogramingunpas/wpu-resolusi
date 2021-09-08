@@ -3,7 +3,7 @@
 -javascript
  * ES6
  *framework javascript
- *angular
+  ^angular
 -struktur data dasar
 -php framework
 -interview
