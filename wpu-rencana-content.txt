@@ -2,6 +2,9 @@
 
 -javascript
  * ES6
+ -vue
+ -anggular
+ -react
  *framework javascript
 -struktur data dasar
 -php framework
