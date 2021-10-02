@@ -1,0 +1,6 @@
+Halo pak dika ,salam kenal saya Loggis Samjaya dari Jawa tengah
+
+Resolusi saya:
+-Membuat website dengan framework Django
+-Membuat komunitas 
+-Membangun startup saya sendiri
