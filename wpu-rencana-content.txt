@@ -1,5 +1,6 @@
  rencana konten wpu
 
+-vb6
 -javascript
  * ES6
  *framework javascript
