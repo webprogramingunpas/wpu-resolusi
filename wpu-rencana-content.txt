@@ -2,7 +2,7 @@ Rencana konten wpu
 
 -Javascript
  *framework javascript
-  -Reac.js
+  -React.js
 
 -struktur data dasar
 -interview
