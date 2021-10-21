@@ -1,9 +1,9 @@
- rencana konten wpu
+Rencana konten wpu
 
--javascript
- * ES6
+-Javascript
  *framework javascript
+  -Reac.js
+
 -struktur data dasar
--php framework
 -interview
 -vlogs
