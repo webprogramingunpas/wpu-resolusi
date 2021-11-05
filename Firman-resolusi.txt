@@ -1,0 +1,5 @@
+Halo pak salam kenal nama saya firman dari SERANG
+
+Resolusi saya
+-membuat aplikasi menggunakan flutter
+-ingin memiliki start up
