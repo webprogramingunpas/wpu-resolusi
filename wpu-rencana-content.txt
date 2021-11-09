@@ -4,6 +4,9 @@
  * ES6
  *framework javascript
 -struktur data dasar
+ -> algorithma
 -php framework
 -interview
 -vlogs
+-python framework
+ 
