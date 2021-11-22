@@ -1,4 +1,4 @@
- rencana konten wpu
+ Rencana konten wpu
 
 -javascript
  * ES6
@@ -7,3 +7,5 @@
 -php framework
 -interview
 -vlogs
+-java
+-kotlin
