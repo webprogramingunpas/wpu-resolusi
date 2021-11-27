@@ -3,7 +3,8 @@
 -javascript
  * ES6
  *framework javascript
+  - react 
+  - jquery full course
 -struktur data dasar
 -php framework
 -interview
--vlogs
