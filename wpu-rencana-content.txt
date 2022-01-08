@@ -7,3 +7,5 @@
 -php framework
 -interview
 -vlogs
+- Belajar API dari dasar
+- Ngoding bareng membuat sesuatu baik web atau apapun
