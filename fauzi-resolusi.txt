@@ -1,0 +1,8 @@
+Halo Pak Sandika salam kenal. Saya Fauzi asal dari ternate maluku utara
+
+Resolusi Saya :
+- Saya lagi mencari literatur pemrograman web yang dapat menjembatani model machine learning agar bisa berjalan di web hosting. karna 
+keterbatasan beberapa framework berbasis python yang belum bisa menjalankan model machine learning di web hosting. skarang model machine learning bisa 
+jalan dengan bantuan flask sama streamlit di mode web lokal, tetapi belum bisa dijalankan di webhosting hanya bisa dijalankan via github. problem saya
+belum mahir pakai github, saya kesulitan ketika menangani data besar, dikarenakan Git mempunyai limitasi, diarahkan menggunakan Git LFS cuman
+saya masih bingung cara makainya. 
