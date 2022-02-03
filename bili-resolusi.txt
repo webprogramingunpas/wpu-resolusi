@@ -1,0 +1,4 @@
+ini list ku:
+list 1
+list 2 
+lise 3
