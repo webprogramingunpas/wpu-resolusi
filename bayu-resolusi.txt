@@ -1,0 +1,5 @@
+hallo pak, salam kenal saya bayu berasal dari mataram lombok nusa tenggara barat, status saya mahasiswa di universitas bumi gora mataram
+
+# resolusi saya :
+- membuat aplikasi yang menarik menggunakan html dan css 
+- mengkaitkan aplikasi saya agar terhubung dengan data base
