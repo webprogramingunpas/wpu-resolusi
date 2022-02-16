@@ -1,0 +1,12 @@
+halo pak, nama saya eska saya dari Cianjur
+saya sekarang sedang kuliah di UIN Bandung
+saya sekarang sedang belajar git di WPU
+dan ini di tutorial no 4 tentang FORK
+
+izin bertanya pak..
+saya sekarang sedang belajar java dan saya ingin menjadi backend developer, nah kapan saya harus belajar framework nya apakah setelah saya selesai belajar bahasa program nya
+atau sambil belajar bahasa programnya pak
+lalu setelah saya selesai belajar satu bahasa program. Apakah saya harus lanjut ke bahasa program yang lain atau apa pak?
+karena dari tutorial yang saya lihat di WPU mengenai roadmap. itu ada step step sebelum ke belajar bahasa programnya pak
+
+terima kasih pak
