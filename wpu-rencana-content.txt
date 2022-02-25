@@ -7,3 +7,7 @@
 -php framework
 -interview
 -vlogs
+-update/tambahkan video mengenai html5 dan css3
+-python
+*django
+-golang
