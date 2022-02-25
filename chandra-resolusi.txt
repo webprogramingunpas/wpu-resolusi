@@ -1,0 +1,6 @@
+resolusi saya di semester ini
+-belajar git
+-belajar framework laravel
+-belajar api
+-mengulas kembali materi
+-membuat latihan projecct
