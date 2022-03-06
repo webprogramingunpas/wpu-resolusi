@@ -7,4 +7,4 @@
 -php framework
 -interview
 -vlogs
-*ingin sekali belajar data science, dan machine learning, bootcamp free 
+*ingin sekali belajar data science, dan machine learning, bootcamp free, tutorial CLI. 
