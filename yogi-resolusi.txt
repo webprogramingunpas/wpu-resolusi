@@ -1,0 +1,8 @@
+Halo pak saya Yogi Yolangga dari Medan. Terima kasih sudah membuat konten belajar di youtubenya. Sebelumnya saya sudah selesai mengikuti playlist Belajar Laravel.
+
+Resolusi Saya : 
+- Membuat website portofolio
+- Membuat project berbasis website dengan framework Laravel
+- Belajar bahasa program Python
+- Belajar javascript
+- Bekerja di start-up ternama
