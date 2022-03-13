@@ -4,6 +4,7 @@
  * ES6
  *framework javascript
 -struktur data dasar
+- Membuat projek web dari 0 sampai selesai
 -php framework
 -interview
 -vlogs
