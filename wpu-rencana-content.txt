@@ -2,6 +2,7 @@
 
 -javascript
  * ES6
+ *react
  *framework javascript
 -struktur data dasar
 -php framework
