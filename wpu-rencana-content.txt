@@ -7,3 +7,9 @@
 -php framework
 -interview
 -vlogs
+-Ai
+ * Ml
+ * DL
+ * CV
+ * NLP
+ 
