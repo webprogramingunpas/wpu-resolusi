@@ -2,6 +2,7 @@
 
 -javascript
  * ES6
+ * vueJs
  *framework javascript
 -struktur data dasar
 -php framework
