@@ -3,6 +3,7 @@
 -javascript
  * ES6
  *framework javascript
+ ^Playlist React
 -struktur data dasar
 -php framework
 -interview
