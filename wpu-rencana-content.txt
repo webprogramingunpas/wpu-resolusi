@@ -3,10 +3,11 @@
 -javascript
  * ES6
  *framework javascript
+  ^ React js (tolong di buatkan iya pak hehe)
+  ^ React Native (tolong di buatkan iya pak hehe)
 -struktur data dasar
 -php framework
 -interview
 -vlogs
--DBMS Mysql Dasar
--website roadmaps beserta vidio pembelajaran
+-DBMS Mysql (tolong di buatkan iya pak hehe)
  
