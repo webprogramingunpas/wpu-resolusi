@@ -1,0 +1,4 @@
+Resolusi tamir
+1. ingin jadi backend developer
+2. menguasai bahasa php dan javascript
+3. bisa pakai API
