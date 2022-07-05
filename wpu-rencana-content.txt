@@ -7,3 +7,4 @@
 -php framework
 -interview
 -vlogs
+-pengertian cloud computing (sangat jelas)
