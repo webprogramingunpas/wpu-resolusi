@@ -5,5 +5,7 @@
  *framework javascript
 -struktur data dasar
 -php framework
+ *Flask
 -interview
 -vlogs
+ *day2day programmer
