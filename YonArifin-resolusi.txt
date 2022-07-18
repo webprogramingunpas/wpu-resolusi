@@ -1,0 +1,11 @@
+Hallo pak dika saya perkenalkan nama saya yon arifin dari Subang saya baru lulus SMK jurusan rekayasa perangkat lunak, vido pak dika
+sangat membatu saya dalam mempelajari programing web, Teimakasih banyak pak dan sehat selalu,
+saya baru mengikuti playlist Git&Hub di chenel bapak, tpi saya sudah selesai mengikuti 
+playlist html dasar, css dasar, css layouting, Php untuk pemula , javaScript dasar, js dom, dan Js lanjutan.Selanjutnya saya
+mau belajar NodeJs di WPU.
+
+Resolusi saya:
+- membuat apk kamus untuk menyimpan kosakata bahasa inggris yang saya sudah dan belum hafal untuk membantu saya belajar 
+  bahasa inggris
+- belajar nodeJs
+- belajar b.inggris
