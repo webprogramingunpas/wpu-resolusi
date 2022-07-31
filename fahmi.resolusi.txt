@@ -1,0 +1,10 @@
+Halo pak dhika, perkenalkan saya fahmi dari pekalongan. saya masih belajar front end developer.
+yang saya liat di video bapak membahas roadmaps front end developer 2022 dan playlist di youtube video menurut 
+ssya urutanya aga membingungkan karena kurang match dengan video 
+roadmaps as front end di video bapak.
+
+FRONT END DEVELOPER
+-HTML
+-CSS
+
+KEMUDIAN GIT DAN GITHUB TERLEBIH DAHULU ATAU CSS FRAMEWORK YA PAK? TERIMA KASIH, VIDEONYA MEMBANTU SAYA
