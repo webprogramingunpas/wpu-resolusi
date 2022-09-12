@@ -3,6 +3,8 @@
 -javascript
  * ES6
  *framework javascript
+ *sql injection
+ *meretas website
 -struktur data dasar
 -php framework
 -interview
