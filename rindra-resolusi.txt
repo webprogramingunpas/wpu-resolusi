@@ -1,0 +1,5 @@
+Hallo pak salam kenal ini 
+terimakasih karena saya sudah bisa main php
+dari dasar php bisa saya kembangkan bahasa lain untuk golang dan framework js seperti react
+dari hal tersebut sangat membantu pekerjaan saya karena bisa bikin program sederhana untuk mepermudah membuat dan mengelola data hingga pembuatanya
+lebih cepat dan ringkas...
