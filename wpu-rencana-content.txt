@@ -3,7 +3,10 @@
 -javascript
  * ES6
  *framework javascript
+ *react js
 -struktur data dasar
 -php framework
 -interview
 -vlogs
+-tutor C#
+
