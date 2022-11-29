@@ -7,3 +7,7 @@
 -php framework
 -interview
 -vlogs
+-materi tentang cyber security
+-node.js versi terbaru (v.18) : ketika saya menginstal eslint melalui terminal git bash di visual studio code terjadi error (ERR)
+ cara mengatasinya bagaimana?
+-tata cara membuat aplikasi atau website dan juga bagaimana cara memplaningnya sepertinya membuat suatu rancangan sebelum masuk ke tahap ngoding
