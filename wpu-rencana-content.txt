@@ -7,3 +7,6 @@
 -php framework
 -interview
 -vlogs
+
+- siri fullstack
+- video bikin web dari design ke front end ke back end ke database
