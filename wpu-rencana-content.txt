@@ -7,3 +7,5 @@
 -php framework
 -interview
 -vlogs
+-mysql
+-python-kivy-database
