@@ -1,0 +1,7 @@
+Hallo Pak, salam kenal saya Bijana Putra dari Bali umur 16 tahun, saya masih menjadi siswa di Smk Negeri 1 Denpasar, 
+kedepannya saya ingin menjadi seorang software engenieer
+
+Resolusi saya
+- Membuat personal web sendiri menggunakan framework html, css, dan javascript
+- Bisa mengatur waktu
+- bisa paham tentang php dan javascript
