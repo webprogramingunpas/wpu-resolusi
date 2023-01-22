@@ -7,3 +7,5 @@
 -php framework
 -interview
 -vlogs
+- tutorial install composer versi 7
+- cara menangani jika composer yang terinstall adalah versi 6
