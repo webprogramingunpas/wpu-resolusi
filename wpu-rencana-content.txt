@@ -7,3 +7,5 @@
 -php framework
 -interview
 -vlogs
+-membuat tutorial website dengan HTML/CSS/Javascript
+-tutorial website dengan framework bootstrap dan react
