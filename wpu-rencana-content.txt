@@ -3,6 +3,8 @@
 -javascript
  * ES6
  *framework javascript
+  ^ Nextjs
+  ^ Nuxjs
 -struktur data dasar
 -php framework
 -interview
