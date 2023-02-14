@@ -5,5 +5,7 @@
  *framework javascript
 -struktur data dasar
 -php framework
+ - laravel
 -interview
 -vlogs
+-integrasi dengan chat gpt lewat API open AI
