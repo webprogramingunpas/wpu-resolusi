@@ -1,0 +1,6 @@
+Halo pak, salam kenal nama saya Ainur dari Lamongan
+
+Resolusi saya : 
+-Membuat website dengan framework bootstrap, reactjs, dan database Mysql
+-Bekerja di startup
+-Menjadi front end developer
