@@ -1,9 +1,12 @@
  rencana konten wpu
 
 -javascript
- * ES6
- *framework javascript
+ ^ ES6
+ ^ framework javascript
+ ^ Angular
 -struktur data dasar
 -php framework
+-Python
 -interview
 -vlogs
+-Membuat video tentang programer yang masih sekolah smp,smk/sma
