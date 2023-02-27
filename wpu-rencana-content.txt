@@ -3,7 +3,9 @@
 -javascript
  * ES6
  *framework javascript
+  ^ React JS
 -struktur data dasar
 -php framework
+ * Laravel
 -interview
 -vlogs
