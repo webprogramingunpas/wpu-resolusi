@@ -1,0 +1,5 @@
+Halo pak, salam kenal saya Surya dari Bojonegoro
+
+Resolusi Saya :
+- Membuat website sederhana menggunakan HTML dan CSS
+- Konsisten belajar mengenai Front-End-Developer
