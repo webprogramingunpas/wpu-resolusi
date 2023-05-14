@@ -2,8 +2,10 @@
 
 -javascript
  * ES6
- *framework javascript
+ * framework javascript
 -struktur data dasar
 -php framework
+ # Codeigniter
+ # lanjut dengan Laravel
 -interview
 -vlogs
