@@ -7,4 +7,4 @@
 -php framework
 -interview
 -vlogs
--tentang ML dong pak,matematikanya gitu,atau apa
+-tentang ML dong pak,matematikanya gitu,atau apa gitu tentang ML
