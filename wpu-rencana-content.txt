@@ -3,6 +3,7 @@
 -javascript
  * ES6
  *framework javascript
+* Boostrap
 -struktur data dasar
 -php framework
 -interview
