@@ -4,6 +4,9 @@
  * ES6
  *framework javascript
 -struktur data dasar
--php framework
+-framework
+ *tailwind
+ *bootsrap
+ *reactJS
 -interview
 -vlogs
