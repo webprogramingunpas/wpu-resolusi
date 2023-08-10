@@ -3,7 +3,10 @@
 -javascript
  * ES6
  *framework javascript
+ *vite.js
 -struktur data dasar
 -php framework
 -interview
 -vlogs
+-backend ruby
+
