@@ -3,7 +3,9 @@
 -javascript
  * ES6
  *framework javascript
+ ^angular
 -struktur data dasar
 -php framework
 -interview
 -vlogs
+-membuat website yg dapat digunakan untuk komunikasi / tanya jawab tentang programing
