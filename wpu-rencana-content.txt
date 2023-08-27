@@ -3,6 +3,8 @@
 -javascript
  * ES6
  *framework javascript
+ - node js
+ - react
 -struktur data dasar
 -php framework
 -interview
