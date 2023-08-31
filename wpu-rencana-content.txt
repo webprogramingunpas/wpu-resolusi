@@ -3,6 +3,9 @@
 -javascript
  * ES6
  *framework javascript
+  ^ React
+  ^ Next
+  ^ Vue
 -struktur data dasar
 -php framework
 -interview
