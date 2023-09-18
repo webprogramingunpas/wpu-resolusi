@@ -3,6 +3,7 @@
 -javascript
  * ES6
  *framework javascript
+*belajar react js
 -struktur data dasar
 -php framework
 -interview
