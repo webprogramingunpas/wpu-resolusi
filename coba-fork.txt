@@ -1,0 +1,4 @@
+text ini untuk
+
+- coba fork
+- coba buat file di fork 
