@@ -3,7 +3,9 @@
 -javascript
  * ES6
  *framework javascript
+  ^ Express
 -struktur data dasar
 -php framework
 -interview
 -vlogs
+- Membuat latihan soal-soal yang lebih banyak
