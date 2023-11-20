@@ -2,6 +2,7 @@
 
 -javascript
  * ES6
+bayshshhhhs
  *framework javascript
 -struktur data dasar
 -php framework
