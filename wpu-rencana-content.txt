@@ -4,6 +4,7 @@
  * ES6
  *framework javascript
    React Javascript
+   react angular
 -struktur data dasar
 -php framework
 -interview
