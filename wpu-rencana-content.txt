@@ -7,3 +7,16 @@
 -php framework
 -interview
 -vlogs
+-HTTP
+-FTP
+-POP3
+-SMTP
+-TCP
+-IP protocols
+-HTML
+-XML
+-Coldfusion
+-ASP
+-JSP
+-PHP
+-ASP.NET
