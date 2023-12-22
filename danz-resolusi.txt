@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Kirito dari Malang
+
+Resolusi Saya:
+- Membuat website menggunakan framework JS
+- Bekerja di start-up
