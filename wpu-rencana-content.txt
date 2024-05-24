@@ -3,7 +3,11 @@
 -javascript
  * ES6
  *framework javascript
+^view
+^react
+^angular
 -struktur data dasar
 -php framework
 -interview
 -vlogs
+-python
