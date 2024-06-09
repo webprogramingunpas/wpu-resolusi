@@ -1,0 +1,5 @@
+Salam kenal pak Sandika, saya Rizqi Mubarrok mahasiswa semester 2 jurusan Teknik Informatika dari Bojonegoro
+
+Resolusi Saya : 
+- Menguasai bahasa pemrograman Phyton
+- Membuat projek banyak kecil-kecilan menggunakan html-css untuk frontendnya dan untuk backendnya menggunakan pyhton

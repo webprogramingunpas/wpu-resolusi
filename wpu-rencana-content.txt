@@ -3,6 +3,8 @@
 -javascript
  * ES6
  *framework javascript
+-pyhton
+* dasar dasar pyhton
 -struktur data dasar
 -php framework
 -interview
