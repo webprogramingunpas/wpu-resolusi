@@ -3,7 +3,16 @@
 -javascript
  * ES6
  *framework javascript
+ ^React
+ ^Angular
+ ^React
+ ^Vue
 -struktur data dasar
 -php framework
 -interview
 -vlogs
+- Graphql
+- Nuxt.js
+- Mobile Apps
+- Flutter
+- Fullstack

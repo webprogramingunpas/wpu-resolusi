@@ -1,0 +1,5 @@
+Halo Pak, saya Natalia dari Sumut
+Ini adalah resolusi saya:
+-  Membuat websiter dengan Framework React
+-  Ingin belajar lebih dalam mengenai FrontEnd
+-  Dapat pekerjaan di bidang FE
