@@ -2,8 +2,11 @@
 
 -javascript
  * ES6
- *framework javascript
+ *node js
+ -HTML & CSS
 -struktur data dasar
--php framework
--interview
--vlogs
+-php
+ *php native
+ *codeigniter
+-frontend backend
+-mobile with android 
