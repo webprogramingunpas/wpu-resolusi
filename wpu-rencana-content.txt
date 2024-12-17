@@ -1,5 +1,8 @@
  rencana konten wpu
 
+tambahan :
+buat java fundamental dan java lanjutan
+
 -javascript
  * ES6
  *framework javascript
