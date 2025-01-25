@@ -3,7 +3,7 @@
 -javascript
  * ES6
  *framework javascript
--struktur data dasar
+-Tutorial tentang data base seperti mySql dan mongodb
 -php framework
 -interview
 -vlogs

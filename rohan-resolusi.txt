@@ -1,0 +1,6 @@
+Perkenalkan sya rohan sebagai siswa SMK dan saya berasala dari Lamongan
+
+Resolusi saya:
+-Mengoptimalkan website yang responsive
+-Belajar framework CSS seperti Bootstrap dan tailwind CSS
+-Mempelajari materi type data pada struktur halaman website yang akan dibuat.
