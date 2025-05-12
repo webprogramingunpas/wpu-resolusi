@@ -1,0 +1,6 @@
+Halo pak, nama saya Nurzaman dari Depok
+
+Resolusi saya :
+- Memasukan project saya kedalam github
+- Membuat website portfolio menggunakan react js
+- Membuat project project lainnya
