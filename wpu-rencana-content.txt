@@ -1,6 +1,7 @@
  rencana konten wpu
 
 -javascript
+ *angular
  * ES6
  *framework javascript
 -struktur data dasar
