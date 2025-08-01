@@ -1,0 +1,5 @@
+Halo salam kenal nama saya affanul dari Manado
+
+Resolusi saya :
+- membuat web dengan framework javascript
+- Bekerja di startup
