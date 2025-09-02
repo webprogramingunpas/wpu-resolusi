@@ -7,3 +7,6 @@
 -php framework
 -interview
 -vlogs
+
+-phyton
+-react
