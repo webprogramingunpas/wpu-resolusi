@@ -3,6 +3,9 @@
 -javascript
  * ES6
  *framework javascript
+   ^ Next
+   ^ Fastify
+   ^ Nuxt
 -struktur data dasar
 -php framework
 -interview

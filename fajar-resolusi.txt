@@ -1,0 +1,8 @@
+Halo pak, salam kenal nama saya Fajar dari Bandung
+
+Resolusi Saya: 
+-  Menjadi pribadi yang lebih baik
+-  Memanajemen waktu yang lebih baik
+-  Mempelajari Rust, Go, Python, Java
+-  Mempelajari Framework Framework Modern
+-  Membuat website microservice 
