@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        body {
+            background: #f5f7fa;
+            color: #333;
+        }
+        header {
+            background: linear-gradient(135deg, #2563eb, #1e40af);
+            color: #fff;
+            padding: 60px 20px;
+        }
+        .container {
+            max-width: 1100px;
+            margin: auto;
+        }
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 40px;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin-left: 20px;
+            font-weight: 500;
+        }
+        .hero {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            align-items: center;
+        }
+        .hero h1 {
+            font-size: 42px;
+            margin-bottom: 20px;
+        }
+        .hero p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+        .btn {
+            display: inline-block;
+            background: #22c55e;
+            color: #fff;
+            padding: 14px 28px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .hero img {
+            width: 100%;
+            border-radius: 16px;
+        }
+        section {
+            padding: 70px 20px;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+        }
+        .card {
+            background: #fff;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+        }
+        .card h3 {
+            margin-bottom: 15px;
+            color: #1e40af;
+        }
+        footer {
+            background: #1f2937;
+            color: #d1d5db;
+            text-align: center;
+            padding: 30px 20px;
+        }
+        @media(max-width: 768px) {
+            .hero {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="container">
+        <nav>
+            <h2>Brand</h2>
+            <div>
+                <a href="#">Home</a>
+                <a href="#fitur">Fitur</a>
+                <a href="#kontak">Kontak</a>
+            </div>
+        </nav>
+        <div class="hero">
+            <div>
+                <h1>Solusi Digital Modern</h1>
+                <p>Membantu Anda membangun website profesional dengan tampilan modern, cepat, dan responsif.</p>
+                <a href="#" class="btn">Mulai Sekarang</a>
+            </div>
+            <img src="https://via.placeholder.com/500x350" alt="Ilustrasi">
+        </div>
+    </div>
+</header>
+
+<section id="fitur">
+    <div class="container">
+        <h2 style="text-align:center; margin-bottom:40px;">Fitur Unggulan</h2>
+        <div class="features">
+            <div class="card">
+                <h3>Responsif</h3>
+                <p>Tampilan menyesuaikan semua ukuran layar, dari mobile hingga desktop.</p>
+            </div>
+            <div class="card">
+                <h3>Desain Modern</h3>
+                <p>Menggunakan desain bersih dan profesional yang menarik.</p>
+            </div>
+            <div class="card">
+                <h3>Mudah Digunakan</h3>
+                <p>Kode sederhana dan mudah dikembangkan sesuai kebutuhan.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer id="kontak">
+    <p>© 2026 Brand. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
