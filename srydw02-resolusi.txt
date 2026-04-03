@@ -1,0 +1,6 @@
+halo pak, saya seorang mahasiswa semester 2.
+izin fork repositorinya untuk pembelajaran, pak.
+resolusi saya:
+1. menguasai git dan github dasar dan penerapannya pada real project dalam 1 minggu
+2. menguasai html, css, javascript dasar untuk membuat web statis
+walau rasanya terlambat, saya akan tetap berjuang pak, semoga tetap disiplin.
