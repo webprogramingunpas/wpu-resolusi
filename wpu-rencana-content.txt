@@ -1,9 +1,2 @@
- rencana konten wpu
-
--javascript
- * ES6
- *framework javascript
--struktur data dasar
--php framework
--interview
--vlogs
+izin testing pak 
+mau usul tambahkan program MBG 
